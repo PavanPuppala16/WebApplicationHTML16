@@ -1,0 +1,11 @@
+﻿body {
+    .triangle
+
+{
+    border-bottom: 15px solid #000;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    width: 0;
+    height: 0;
+}
+}
